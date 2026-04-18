@@ -1,1 +1,1 @@
-[https://claude.ai/public/artifacts/bca4bd04-6170-4c89-af3f-20da4688f841](https://claude.ai/public/artifacts/bca4bd04-6170-4c89-af3f-20da4688f841)
+<iframe src="https://claude.site/public/artifacts/bca4bd04-6170-4c89-af3f-20da4688f841/embed" title="nucleo_f401_morpho_full_gpio.html" width="100%" height="600" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
