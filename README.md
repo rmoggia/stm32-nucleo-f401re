@@ -185,4 +185,4 @@
 
 ---
 
-*Generato da Claude · DAC Informatica S.r.l. · Riferimento: ST UM1724 — STM32 Nucleo-64 boards user manual*
+*Generato da Claude  · Riferimento: ST UM1724 — STM32 Nucleo-64 boards user manual*
