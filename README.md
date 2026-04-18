@@ -1,5 +1,11 @@
 # STM32 Nucleo-F401RE — Mappa GPIO Morpho
 
+<!-- Se l'SVG è nella stessa cartella del .md: -->
+![STM32 Nucleo-F401RE — vista dall'alto](nucleo_f401re_board.svg)
+
+<!-- Se lo metti in una sottocartella img/: -->
+<!-- ![STM32 Nucleo-F401RE — vista dall'alto](img/nucleo_f401re_board.svg) -->
+
 > **Scheda:** NUCLEO-F401RE · STMicroelectronics  
 > **MCU:** STM32F401RET6 · ARM Cortex-M4 + FPU · 84 MHz · 512 KB Flash · 96 KB SRAM · LQFP64  
 > **Connettori:** Morpho CN7 (2×19) · Morpho CN10 (2×19) · Arduino CN5/CN6/CN8/CN9  
@@ -181,4 +187,4 @@
 
 ---
 
-*Generato da Claude · Riferimento: ST UM1724 — STM32 Nucleo-64 boards user manual*
+*Generato da Claude · DAC Informatica S.r.l. · Riferimento: ST UM1724 — STM32 Nucleo-64 boards user manual*
