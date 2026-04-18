@@ -2,7 +2,7 @@
 
 <!-- Se l'SVG è nella stessa cartella del .md: -->
 ![STM32 Nucleo-F401RE — vista dall'alto](stm32nucleof401re.jpg)
-![STM32 Nucleo-F401RE — vista dall'alto](stm32nucleof401re-pinout.jpg)
+![STM32 Nucleo-F401RE — vista dall'alto](stm32-nucleo-f401re-pinout.jpg)
 
 
 > **Scheda:** NUCLEO-F401RE · STMicroelectronics  
