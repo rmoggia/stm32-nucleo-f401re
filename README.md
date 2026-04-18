@@ -1,7 +1,7 @@
 # STM32 Nucleo-F401RE — Mappa GPIO Morpho
 
 <!-- Se l'SVG è nella stessa cartella del .md: -->
-![STM32 Nucleo-F401RE — vista dall'alto](nucleo_f401re_board.svg)
+![STM32 Nucleo-F401RE — vista dall'alto](stm32nucleof401re.jpg)
 
 <!-- Se lo metti in una sottocartella img/: -->
 <!-- ![STM32 Nucleo-F401RE — vista dall'alto](img/nucleo_f401re_board.svg) -->
