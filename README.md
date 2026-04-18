@@ -2,9 +2,8 @@
 
 <!-- Se l'SVG è nella stessa cartella del .md: -->
 ![STM32 Nucleo-F401RE — vista dall'alto](stm32nucleof401re.jpg)
+![STM32 Nucleo-F401RE — vista dall'alto](stm32nucleof401re-pinout.jpg)
 
-<!-- Se lo metti in una sottocartella img/: -->
-<!-- ![STM32 Nucleo-F401RE — vista dall'alto](img/nucleo_f401re_board.svg) -->
 
 > **Scheda:** NUCLEO-F401RE · STMicroelectronics  
 > **MCU:** STM32F401RET6 · ARM Cortex-M4 + FPU · 84 MHz · 512 KB Flash · 96 KB SRAM · LQFP64  
